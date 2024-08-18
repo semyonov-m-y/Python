@@ -1,1 +1,1 @@
-# For example added tasks for Python.
+# For example added Python tasks/games/app.
