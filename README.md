@@ -2,5 +2,7 @@
 1) # Chatbot
 It's a simple chatbot with some answers about chatbots.
 
-2) games
-3) some interesting programs
+2) # Games
+Some fun games to relieve boredom.
+
+4) some interesting programs
