@@ -5,7 +5,7 @@ It's a simple chatbot with some answers about chatbots.
 2) # Games
 Some fun games to relieve boredom.
 
-4) # Programs
+3) # Programs
 These are mini-programs in Python.
 
 > [!NOTE]  
