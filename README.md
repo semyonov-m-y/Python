@@ -9,4 +9,4 @@ Some fun games to relieve boredom.
 These are mini-programs in Python.
 
 > [!NOTE]  
-> Areas of activity of companies: $${\color{gold}Python}$$ 
+> Skills and Tools: $${\color{gold}Python}$$ 
