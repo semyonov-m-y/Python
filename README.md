@@ -1,4 +1,8 @@
 # Python projects
+
+> [!NOTE]  
+> Skills and Tools: $${\color{gold}Python}$$
+
 1) # Chatbot
 It's a simple chatbot with some answers about chatbots.
 
@@ -7,6 +11,3 @@ Some fun games to relieve boredom.
 
 3) # Programs
 These are mini-programs in Python.
-
-> [!NOTE]  
-> Skills and Tools: $${\color{gold}Python}$$ 
