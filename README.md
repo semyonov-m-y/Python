@@ -1,4 +1,4 @@
-# Python projects
+# Projects
 
 > [!NOTE]  
 > Skills and Tools: $${\color{gold}Python}$$
